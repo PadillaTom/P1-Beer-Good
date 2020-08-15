@@ -8,6 +8,6 @@ Using Comments both Single and Multiline to have an organized environment.
 First time using CSS Variables.
 
 
-Take a Look-->
-Code: https://github.com/PadillaTom/P1-Beer-Good
-Website: https://p1-beergood-noflexgrid.netlify.app/
+Take a Look-->\
+Code: https://github.com/PadillaTom/P1-Beer-Good \
+Website: https://p1-beergood-noflexgrid.netlify.app/ 
